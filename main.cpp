@@ -1,7 +1,7 @@
 //
 // Kate Rivera
-// Date: 9/22/25
-// Project: 272 Forking & Overloading Exercise
+// Date: 9/28/25
+// Lab Activities: Inheritance
 //
 #include <iostream>
 #include "ServiceAccount.h"
