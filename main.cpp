@@ -21,7 +21,7 @@ int main() {
     // New menu system to test operators for deposits & withdrawals, static functions for printing & creaing accounts
     int displayMenu;
     do{
-        std::cout << "\Menu:\n";
+        std::cout << "\nMenu:\n";
         std::cout << "1. Make deposit\n";
         std::cout << "2. Make withdrawal\n";
         std::cout << "3. Print account";
